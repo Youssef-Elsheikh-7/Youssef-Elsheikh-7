@@ -34,14 +34,22 @@
     </p>
 
 
-
+<h2>• I’m Currently Learning</h2>
 <p align="left">
-  <h2>• I’m Currently Learning</h2>
-  <a><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="BootStrap"/></a>
-  <a><img height="32" src="https://pbs.twimg.com/profile_images/417078109075034112/iruTC031_400x400.png" alt="Gulpjs"/></a>
-  <a><img height="32" src="https://amandeepmittal.gallerycdn.vsassets.io/extensions/amandeepmittal/pug/1.0.1/1509818475774/Microsoft.VisualStudio.Services.Icons.Default" alt="Pugjs"/></a>
-  <a><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind"/></a>
-  <a><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript"/></a>
+  <a href="">
+    <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="BootStrap"/>
+  </a>
+  <a href="">
+    <img height="32" src="https://pbs.twimg.com/profile_images/417078109075034112/iruTC031_400x400.png" alt="Gulpjs"/>
+  </a>
+  <a href="">
+    <img height="32" src="https://amandeepmittal.gallerycdn.vsassets.io/extensions/amandeepmittal/pug/1.0.1/1509818475774/Microsoft.VisualStudio.Services.Icons.Default" alt="Pugjs"/></a>
+  <a href="">
+    <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind"/>
+  </a>
+  <a href="">
+    <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript"/>
+  </a>
 </p>
 
 <!-- - 🔭 I’m currently working on ...

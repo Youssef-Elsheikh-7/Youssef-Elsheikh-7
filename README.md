@@ -12,13 +12,13 @@
       </a>
     </p>
     <p align="right" >
-    <img src="profile-img.jpg" align="right" width="25%" style=""/>
+    <img src="profile-img.jpg" align="right" width="25%" style="border-radius:50%;"/>
     </p>
   <h1>• I'm Front-End Web Developer</h1>
-  <h2>• From Egypt, ِlsharqia. <br>• Building Useful Websites</h2>
+  <h2>• From Egypt, Alsharqia. <br>• Building Useful Websites</h2>
   
   <h2>• Stacks 💻</h2>
-    <p align="center" >
+    <p align="right" >
       <a href="https://www.w3schools.com/html/">
         <img height="32" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" alt="HTML"/>
       </a>

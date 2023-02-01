@@ -1,11 +1,28 @@
-<body style="text-align: center;">
-  <h1>Hi, I'm Youssef Elsheikh 👋</h1>
-  <p>Follow Me</p>
-  <div>
-    <a href="https://www.facebook.com/youssef.elshekh.73">Facebook</a>
-  </div>
-</body>
+  <h1 align="center">Hi, I'm Youssef Elsheikh 👋</h1>
+  <p align="center" >Follow Me on</p>
+  <p align="center" >
+      <a href="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.pnghttps://www.instagram.com/youssef.elshekh.73/">
+        <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" alt="instagram">
+      </a>
+      <a href="https://www.facebook.com/youssef.elshekh.73">
+        <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" alt="facebook">
+      </a>
+      <a href="https://twitter.com/Youssef13105832">
+        <img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/twitter-512.png" alt="instagram">
+      </a>
+    </p>
+    
+    <img src="profile-img.png" align="right" width="25%"/>
+  <h1>• I'm Front-End Web Developer</h1>
+  <h2>• From Egypt, ِlsharqia. <br>• Building Useful Websites</h2>
+  
+  ### • Stacks :computer:
+  
 
+    <img height="32" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" alt="HTML"/>
+    <img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS"/>
+    <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
+    <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png" alt="Sass"/>
 
 
 
@@ -21,5 +38,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋
-</body>

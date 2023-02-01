@@ -12,7 +12,7 @@
       </a>
     </p>
     
-    <img src="profile-img.png" align="right" width="25%" radius="50%"/>
+    <img src="profile-img.jpg" align="right" width="25%" radius="50%"/>
   <h1>• I'm Front-End Web Developer</h1>
   <h2>• From Egypt, ِlsharqia. <br>• Building Useful Websites</h2>
   

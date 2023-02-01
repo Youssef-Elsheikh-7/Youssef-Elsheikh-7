@@ -12,13 +12,12 @@
       </a>
     </p>
     
-    <img src="profile-img.png" align="right" width="25%"/>
+    <img src="profile-img.png" align="right" width="25%" radius="50%"/>
   <h1>• I'm Front-End Web Developer</h1>
   <h2>• From Egypt, ِlsharqia. <br>• Building Useful Websites</h2>
   
-  ### • Stacks :computer:
+  <h2>• Stacks 💻</h2>
   
-
     <a href="https://www.w3schools.com/html/">
       <img height="32" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" alt="HTML"/>
     </a>
@@ -37,7 +36,7 @@
 
 
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -45,4 +44,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->

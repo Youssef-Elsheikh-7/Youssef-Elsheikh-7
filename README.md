@@ -15,7 +15,7 @@
     <img src="profile-img-modified.png" align="right" width="25%"/>
     </p>
   <h1>• I'm A Front-End Web Developer</h1>
-  <h2>• From Egypt, Alsharqia. <br>• Building Useful Websites</h2>
+  <h2>• From Egypt, Cairo <br>• Building Useful Websites</h2>
   
   <h2>• Stacks 💻</h2>
     <p align="left" >

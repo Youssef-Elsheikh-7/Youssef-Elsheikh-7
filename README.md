@@ -39,11 +39,6 @@
   <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React"/>
   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind"/>
-</p>
+    <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript"/>
 
-<h2>• Currently Learning 🚀</h2>
-
-<p align="left">
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript"/>
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="BootStrap"/>
 </p>
